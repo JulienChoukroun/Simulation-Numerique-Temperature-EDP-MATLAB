@@ -16,4 +16,4 @@ Exemple de résultat de la simulation statique de la chaleur : Mauvais placement
 
 Exemple de résultat de la simulation statique de la chaleur : Bon placement de chauffage en hiver
 
-![alt text](https://github.com/JulienChoukroun/Simulation-Numerique-Temperature-EDP-MATLAB/blob/main/Images/hiver_avec_mauvais_chauffage.jpg "Simulation statique de la chaleur-hiver bon chauffages")
+![alt text](https://github.com/JulienChoukroun/Simulation-Numerique-Temperature-EDP-MATLAB/blob/main/Images/chambre2_bon_hiver.png "Simulation statique de la chaleur-hiver bon chauffages")
