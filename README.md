@@ -10,6 +10,10 @@ Ce projet a été réalisé avec le langage MATLAB.
 * Simulation statique de la chaleur : calculer la température ambiante dans nos chambres en faisant varier les cas tests. Utilisation du Laplacien et résolution de l'équation de Poisson -Δu = f.
 * Simulation instationnaire de la chaleur : observer l’évolution de la température au sein de la pièce au cours du temps. Utilisation du Laplacien mais au lieu de résoudre l’équation de Poisson -Δu = f (partie 1), on résout l’équation de la chaleur par la méthode d’Euler explicite et par la méthode d’Euler implicite. Utilisation d'une boucle en temps dans deux cas test différents.
 
-Exemple de résultat de la simulation statique de la chaleur :
+Exemple de résultat de la simulation statique de la chaleur : Mauvais placement de chauffage en hiver
 
-![alt text](https://github.com/JulienChoukroun/Machine-Learning-Clustering-Python/blob/main/Images/K-means.png "K-means Clustering")
+![alt text](https://github.com/JulienChoukroun/Simulation-Numerique-Temperature-EDP-MATLAB/blob/main/Images/hiver_avec_mauvais_chauffage.jpg "Simulation statique de la chaleur-hiver mauvais chauffages")
+
+Exemple de résultat de la simulation statique de la chaleur : Bon placement de chauffage en hiver
+
+![alt text](https://github.com/JulienChoukroun/Simulation-Numerique-Temperature-EDP-MATLAB/blob/main/Images/hiver_avec_mauvais_chauffage.jpg "Simulation statique de la chaleur-hiver bon chauffages")
